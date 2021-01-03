@@ -1,0 +1,17 @@
+{
+    "editor.tokenColorCustomizations": {
+        "variables": "#29d145",
+        "numbers":"#0099e6",
+        "strings": "#ff9933",
+        "keywords": "#FF0066",
+        "types": "#0ce4ec",
+        "functions": "#7B68EE",
+    
+        
+        
+        
+        
+    },
+    "editor.semanticTokenColorCustomizations": null,
+    "git.ignoreLimitWarning": true
+}
